@@ -6,13 +6,10 @@ namespace EjemploFork
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Programación II (Sección I)");
+			Console.WriteLine ("VERSION DEMO)");
 			Console.WriteLine ("==");
-			Console.WriteLine ("\n\nProf. Miguel Useche");
-			Console.WriteLine ("TEST")'
-			Console.WriteLine("\n\nAlejandro Gonzalez Mora");  
-            Console.WriteLine("\nLuis Torres");
-
+			Console.WriteLine ("Compre el completo");
+		
 		}
 	}
 }
