@@ -8,7 +8,9 @@ namespace EjemploFork
 		{
 			Console.WriteLine ("Programación II (Sección I)");
 			Console.WriteLine ("==");
-			Console.WriteLine ("\n\nProf. Miguel Useche");
+            Console.WriteLine("\n\nProf. Miguel Useche");
+            Console.WriteLine("\n\nEst. Francisco Blanco");
+            //colowebvfhaskbvasjbvfk
 		}
 	}
 }
