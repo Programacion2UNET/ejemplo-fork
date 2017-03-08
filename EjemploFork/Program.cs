@@ -12,7 +12,7 @@ namespace EjemploFork
 			Console.WriteLine ("TEST")'
 			Console.WriteLine("\n\nAlejandro Gonzalez Mora");  
             Console.WriteLine("\nLuis Torres");
-
+			Console.WriteLine("\n\nDiego E. Solórzano Z.");  
 		}
 	}
 }
